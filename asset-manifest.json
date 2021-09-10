@@ -1,0 +1,41 @@
+{
+  "name": "Bro Recipes",
+  "short_name": "Recipes",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#182848",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "192.png",
+      "type": "image/png", "sizes": "192x192"
+    },
+    {"src": "256.png",
+      "type": "image/png", "sizes": "256x256"
+    },
+    {"src": "512.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ],
+
+  "main.css": "static/css/styles.css",
+  "main.css.map": "static/css/styles.map",
+  "main.js": "static/js/main.6c8d50bc.js",
+  "main.js.map": "static/js/main.6c8d50bc.js.map",
+  "static\\media\\free-fa-brands-400.eot": "static/media/free-fa-brands-400.217fdaa1.eot",
+  "static\\media\\free-fa-brands-400.svg": "static/media/free-fa-brands-400.3a8cd7b9.svg",
+  "static\\media\\free-fa-brands-400.ttf": "static/media/free-fa-brands-400.5a37ae80.ttf",
+  "static\\media\\free-fa-brands-400.woff": "static/media/free-fa-brands-400.59bd9f2e.woff",
+  "static\\media\\free-fa-brands-400.woff2": "static/media/free-fa-brands-400.925d8255.woff2",
+  "static\\media\\free-fa-regular-400.eot": "static/media/free-fa-regular-400.217fdaa1.eot",
+  "static\\media\\free-fa-regular-400.svg": "static/media/free-fa-regular-400.e1899211.svg",
+  "static\\media\\free-fa-regular-400.ttf": "static/media/free-fa-regular-400.2bca5ec8.ttf",
+  "static\\media\\free-fa-regular-400.woff": "static/media/free-fa-regular-400.f1ee634d.woff",
+  "static\\media\\free-fa-regular-400.woff2": "static/media/free-fa-regular-400.925d8255.woff2",
+  "static\\media\\free-fa-solid-900.eot": "static/media/free-fa-solid-900.8a684da6.eot",
+  "static\\media\\free-fa-solid-900.svg": "static/media/free-fa-solid-900.09df68ef.svg",
+  "static\\media\\free-fa-solid-900.ttf": "static/media/free-fa-solid-900.2aa350bd.ttf",
+  "static\\media\\free-fa-solid-900.woff": "static/media/free-fa-solid-900.4902fd0d.woff",
+  "static\\media\\free-fa-solid-900.woff2": "static/media/free-fa-solid-900.b3e460fd.woff2"
+}
